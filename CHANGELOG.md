@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`63eeda1`](https://github.com/stdlib-js/stdlib/commit/63eeda110c5f6ff1bea1d99281b147ba92ec5377) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`df9a32d`](https://github.com/stdlib-js/stdlib/commit/df9a32d8d6d207dfe2370003c698af287ae7bae0) - **feat:** add `stats/strided/drange` _(by Aayush Khanna)_
 
 </details>

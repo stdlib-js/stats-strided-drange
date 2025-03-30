@@ -310,7 +310,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dmin`][@stdlib/stats/strided/dmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dnanrange`][@stdlib/stats/strided/dnanrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a double-precision floating-point strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/range`][@stdlib/stats/base/range]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/srange`][@stdlib/stats/base/srange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/srange`][@stdlib/stats/strided/srange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array.</span>
 
 </section>
 
@@ -404,7 +404,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/range]: https://github.com/stdlib-js/stats-base-range
 
-[@stdlib/stats/base/srange]: https://github.com/stdlib-js/stats-base-srange
+[@stdlib/stats/strided/srange]: https://github.com/stdlib-js/stats-strided-srange
 
 <!-- </related-links> -->
 
