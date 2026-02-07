@@ -50,7 +50,7 @@ The [**range**][range] is defined as the difference between the maximum and mini
 ## Usage
 
 ```javascript
-import drange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-drange@esm/index.mjs';
+import drange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-drange@v0.1.1-esm/index.mjs';
 ```
 
 #### drange( N, x, strideX )
@@ -153,7 +153,7 @@ var v = drange.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import drange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-drange@esm/index.mjs';
+import drange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-drange@v0.1.1-esm/index.mjs';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float64'
